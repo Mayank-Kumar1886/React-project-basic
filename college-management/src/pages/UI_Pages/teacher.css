@@ -1,0 +1,135 @@
+/* MAIN CONTAINER */
+.teacher-container {
+  min-height: 100vh;
+  background: #000;
+  color: #fff;
+  padding: 20px;
+}
+
+/* HEADER */
+.teacher-container-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.logo {
+  width: 70px;
+}
+
+.search-input {
+  padding: 10px 14px;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  background: #111;
+  color: #fff;
+}
+
+/* BODY LAYOUT */
+.teacher-body-container {
+  display: flex;
+  gap: 25px;
+}
+
+/* LEFT SIDEBAR */
+.courses-side {
+  width: 220px;
+  background: #0d0d0d;
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid #222;
+}
+
+.courses-side ul {
+  list-style: none;
+  padding: 0;
+}
+
+.courses-side label {
+  cursor: pointer;
+  color: #ccc;
+}
+
+.courses-side input {
+  margin-right: 6px;
+}
+
+/* SORTING BUTTONS */
+.sorting-box {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.sorting-box button {
+  padding: 8px 14px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  background: #222;
+  color: #fff;
+  transition: 0.3s;
+}
+
+.sorting-box button.active,
+.sorting-box button:hover {
+  background: #007bff;
+}
+
+/* TEACHER CARDS */
+.teachers-card-side {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 25px;
+}
+
+.teacher-card {
+  background: #111;
+  padding: 18px;
+  border-radius: 10px;
+  text-align: center;
+  border: 1px solid #222;
+  transition: 0.3s;
+}
+
+.teacher-card:hover {
+  transform: translateY(-5px);
+  border-color: #007bff;
+}
+
+.teacher-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.teacher-card h3 {
+  margin: 12px 0 5px;
+  color: #fff;
+}
+
+.position {
+  color: #aaa;
+  margin-bottom: 12px;
+}
+
+/* BUTTON */
+.read-more {
+  padding: 8px 14px;
+  background: #007bff;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.read-more:hover {
+  background: #005fcc;
+}
+
+

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Raghav Malhotra",
+    "position": "Chairman",
+    "course": "All Departments",
+    "email": "chairman@university.edu",
+    "contact": "9811002200",
+    "qualification": "PhD in Education Management",
+    "room_no": "Main Building - Room 101",
+    "photo": "https://t3.ftcdn.net/jpg/04/61/20/14/360_F_461201426_x416DzHHMUg3B1LydRUbnUGIHNo6CtW0.jpg",
+    "details": "Dr. Raghav Malhotra has over 30 years of experience in academic leadership and institutional development. As Chairman, he has played a crucial role in enhancing the university's academic standards, introducing modern teaching practices, and building strong industry collaborations. His vision emphasizes quality education, innovation, and student-centric policies."
+  },
+  {
+    "id": 2,
+    "name": "Prof. Anita Verma",
+    "position": "Vice Chairman",
+    "course": "All Departments",
+    "email": "vicechairman@university.edu",
+    "contact": "9811003300",
+    "qualification": "PhD in Administration",
+    "room_no": "Main Building - Room 102",
+    "photo": "https://img.freepik.com/free-photo/young-woman-teacher-sitting-school-desk-front-blackboard-classroom-checking-homework-students-looking-camera-happy-pleased-smiling_141793-139226.jpg?semt=ais_incoming&w=740&q=80",
+    "details": "Prof. Anita Verma is known for her administrative excellence and strong decision-making skills. She has been working for more than 25 years in higher education institutions. As Vice Chairman, she supervises academic policy implementation, ensures smooth functioning between departments, and leads important development committees."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Suresh Nambiar",
+    "position": "Dean",
+    "course": "All Courses",
+    "email": "dean@university.edu",
+    "contact": "9811004400",
+    "qualification": "PhD in Academic Research",
+    "room_no": "Main Building - Room 103",
+    "photo": "https://t3.ftcdn.net/jpg/04/61/20/14/360_F_461201426_x416DzHHMUg3B1LydRUbnUGIHNo6CtW0.jpg",
+    "details": "Dr. Suresh Nambiar is an expert in academic research and curriculum design with a career spanning 20 years. As Dean, he oversees all academic programs, faculty development, and quality assurance. He actively promotes advanced research, international collaborations, and student innovation programs."
+  },
+  {
+    "id": 4,
+    "name": "Prof. Manish Arora",
+    "position": "HOD",
+    "course": "BTECH",
+    "email": "hod.btech@university.edu",
+    "contact": "9876543210",
+    "qualification": "PhD in Computer Science",
+    "room_no": "Block A - Room 301",
+    "photo": "https://img.freepik.com/free-photo/young-woman-teacher-sitting-school-desk-front-blackboard-classroom-checking-homework-students-looking-camera-happy-pleased-smiling_141793-139226.jpg?semt=ais_incoming&w=740&q=80",
+    "details": "Prof. Manish Arora has specialization in Artificial Intelligence and Software Engineering. With over 15 years of experience, he has guided multiple student projects, startups, and research publications. As BTECH HOD, he focuses on technical skill development and industry-linked training."
+  },
+  {
+    "id": 5,
+    "name": "Dr. Neha Chopra",
+    "position": "HOD",
+    "course": "BSC",
+    "email": "hod.bsc@university.edu",
+    "contact": "9876500122",
+    "qualification": "PhD in Physics",
+    "room_no": "Block B - Room 204",
+    "photo": "https://static.vecteezy.com/system/resources/thumbnails/051/344/770/small/a-smiling-teacher-engages-students-during-a-classroom-lesson-on-a-bright-day-at-school-creating-an-inviting-learning-atmosphere-photo.jpg",
+    "details": "Dr. Neha Chopra is a researcher in quantum physics and applied sciences. She has contributed to several national-level research programs. As BSC HOD, she ensures students receive strong practical exposure and scientific understanding."
+  },
+  {
+    "id": 6,
+    "name": "Prof. Ritesh Khanna",
+    "position": "HOD",
+    "course": "BBA",
+    "email": "hod.bba@university.edu",
+    "contact": "9876612345",
+    "qualification": "MBA, PhD in Management",
+    "room_no": "Block C - Room 110",
+    "photo": "https://st5.depositphotos.com/1000975/69011/i/450/depositphotos_690118086-stock-photo-young-teacher-front-green-board.jpg",
+    "details": "Prof. Ritesh Khanna is a management expert with experience in corporate training and business strategy. Under his leadership, the BBA department has developed strong industry partnerships and practical learning programs like internships and entrepreneurship cells."
+  },
+  {
+    "id": 7,
+    "name": "Dr. Kavita Sood",
+    "position": "HOD",
+    "course": "BA",
+    "email": "hod.ba@university.edu",
+    "contact": "9876678912",
+    "qualification": "PhD in English Literature",
+    "room_no": "Block D - Room 115",
+    "photo": "https://media.istockphoto.com/id/1807678380/photo/school-teacher-woman-portrait-and-classroom-for-education-learning-and-children-or-students.jpg?s=612x612&w=0&k=20&c=pYB2Ks8nMFcF61IG2BnQKb_iCfsMqdWKrKAOj9rxWcs=",
+    "details": "Dr. Kavita Sood specializes in modern literature and communication studies. She has authored several academic books and research papers. As BA HOD, she encourages creativity, critical thinking, and cultural awareness among students."
+  },
+  {
+    "id": 8,
+    "name": "Prof. Jatin Mehta",
+    "position": "HOD",
+    "course": "B PHARMA",
+    "email": "hod.bpharma@university.edu",
+    "contact": "9876001123",
+    "qualification": "PhD in Pharmaceutical Sciences",
+    "room_no": "Block E - Room 220",
+    "photo": "https://static.vecteezy.com/system/resources/thumbnails/048/766/339/small/smiling-japanese-male-school-teacher-in-classroom-concept-for-education-diversity-and-inclusivity-in-learning-environments-photo.jpg",
+    "details": "Prof. Jatin Mehta is known for his research in drug development and clinical pharmacy. With more than 18 years of experience, he has contributed to advanced pharmaceutical research and student development in the healthcare sector."
+  }
+]

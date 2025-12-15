@@ -1,0 +1,73 @@
+.student-container-header {
+  width: 100%;
+  height: 70px;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 25px;
+}
+.logo {
+  height: 50px;
+}
+
+.search-input {
+  width: 300px;
+  padding: 10px 14px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.student-body-container {
+  display: flex;
+  height: calc(100vh - 70px);
+}
+
+.courses-side {
+  width: 15%;
+  border-right: 1px solid #ddd;
+  padding: 20px;
+}
+.courses-side ul {
+  list-style: none;
+  padding: 0;
+}
+
+.courses-side li {
+  margin: 12px 0;
+}
+.sorting-box {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.sorting-box button {
+  padding: 8px 14px;
+  border: 1px solid #007bff;
+  background: #fff;
+  color: #007bff;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+
+.sorting-box button:hover {
+  background: #007bff;
+  color: #fff;
+}
+
+.sorting-box .active {
+  background: #007bff;
+  color: #fff;
+}
+
+.students-card-side {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+  padding: 20px;
+  width: 100rem;
+}

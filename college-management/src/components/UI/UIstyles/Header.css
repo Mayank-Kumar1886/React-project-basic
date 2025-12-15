@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  width: 100%;
+  padding: 18px 50px;
+  background: #1a1a1a; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #333;
+}
+
+.logo img {
+  height: 55px;
+}
+
+/* Desktop Navigation */
+.navbar ul {
+  display: flex;
+  list-style: none;
+  gap: 45px;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  color: #ddd;                
+  font-size: 18px;
+  font-weight: 500;
+  transition: 0.3s ease;
+}
+
+/* Hover + Active Link */
+.navbar ul li a:hover,
+.navbar ul li a.active {
+  color: #4da3ff;           
+}

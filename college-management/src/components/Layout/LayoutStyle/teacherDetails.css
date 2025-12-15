@@ -1,0 +1,52 @@
+/* ========= PAGE WRAPPER ========= */
+.teacher-details-page {
+  display: flex;
+  gap: 40px;
+  padding: 50px;
+  background: #0d0d0d;
+  color: #ffffff;
+  min-height: 100vh;
+  align-items: flex-start;
+}
+
+.big-img {
+  width: 380px;
+  height: 450px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 0 18px rgba(255, 255, 255, 0.08);
+  border: 2px solid #222;
+  transition: transform 0.3s ease;
+}
+
+.big-img:hover {
+  transform: scale(1.03);
+}
+
+.details-info {
+  flex: 1;
+  padding-right: 20px;
+}
+
+.details-info h2 {
+  font-size: 32px;
+  margin-bottom: 10px;
+  color: #ffcc00;
+}
+
+.details-info p {
+  font-size: 18px;
+  margin: 6px 0;
+  line-height: 1.6;
+}
+.details-info strong {
+  color: #ff8c00;
+}
+
+.details {
+  margin-top: 20px;
+  font-size: 17px;
+  color: #d4d4d4;
+  border-top: 1px solid #333;
+  padding-top: 20px;
+}

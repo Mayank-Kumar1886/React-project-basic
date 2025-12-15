@@ -1,0 +1,55 @@
+.footer {
+  width: 100%;
+  padding: 50px 80px;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  position: relative;   
+  bottom: 0;
+  margin-top: 40px;     
+}
+
+.footer-left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.college-logo {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 2px solid #1f1f1f;
+}
+
+.college-name {
+  margin-top: 15px;
+  font-size: 24px;
+  font-weight: 700;
+  color: #4ea7ff;
+}
+
+.right-section {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 60px;
+  flex-wrap: wrap;
+  min-width: 60%;
+}
+
+.footer-section h3 {
+  font-size: 18px;
+  color: #4ea7ff;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.footer-section p {
+  font-size: 15px;
+  opacity: 0.8;
+  margin: 3px 0;
+}

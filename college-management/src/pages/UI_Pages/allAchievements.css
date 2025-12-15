@@ -1,0 +1,50 @@
+.all-achievements-wrapper {
+  background: #000;
+  color: #fff;
+  padding: 40px;
+  min-height: 100vh;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 32px;
+  letter-spacing: 1px;
+}
+
+.achievement-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 25px;
+}
+
+.achievement-row {
+  display: flex;
+  background: #111;
+  border: 1px solid #222;
+  padding: 20px;
+  border-radius: 10px;
+  gap: 20px;
+  align-items: center;
+}
+
+.ach-img {
+  width: 180px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.ach-info h3 {
+  margin: 0 0 8px;
+  font-size: 20px;
+}
+
+.ach-info p {
+  font-size: 15px;
+  line-height: 1.5;
+  color: #ccc;
+}
+.like-btn {
+    cursor: pointer;
+}

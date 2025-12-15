@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ACH-001",
+    "image": "https://placehold.co/400x250/0047AB/FFFFFF?text=GRADUATION",
+    "event": "Graduation Ceremony",
+    "description": "Students celebrated their academic journey, receiving diplomas and posing with joy at the graduation ceremony, marking the memorable end of their college years.",
+    "isFeatured": true
+  },
+  {
+    "id": "ACH-002",
+    "image": "https://placehold.co/400x250/228B22/FFFFFF?text=SCIENCE+FAIR",
+    "event": "Science Fair Showcase",
+    "description": "Participants presented their scientific models and research projects, impressing judges with innovative ideas, critical thinking, and hands-on experimentation.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-003",
+    "image": "https://placehold.co/400x250/FF4500/FFFFFF?text=HACKATHON+WIN",
+    "event": "Hackathon Victory",
+    "description": "Our development team built a functional prototype in 24 hours during the hackathon, combining coding expertise, speed, and creativity to win first place.",
+    "isFeatured": true
+  },
+  {
+    "id": "ACH-004",
+    "image": "https://placehold.co/400x250/191970/FFFFFF?text=BUSINESS+PITCH",
+    "event": "Business Pitch Competition",
+    "description": "BBA students pitched groundbreaking business ideas to a panel of investors and professors, showing strong strategy, market research, and financial planning.",
+    "isFeatured": true
+  },
+  {
+    "id": "ACH-005",
+    "image": "https://placehold.co/400x250/B8860B/FFFFFF?text=ACADEMIC+AWARD",
+    "event": "Academic Excellence Award",
+    "description": "High-achieving students received awards for outstanding grade point averages, dedication to study, and consistent academic performance across all semesters.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-006",
+    "image": "https://placehold.co/400x250/800080/FFFFFF?text=DEBATE+CHAMPION",
+    "event": "Debate Championship",
+    "description": "BA students demonstrated excellent oratory skills and critical thinking in an inter-college debate, winning with persuasive arguments and confident delivery.",
+    "isFeatured": true
+  },
+  {
+    "id": "ACH-007",
+    "image": "https://placehold.co/400x250/9400D3/FFFFFF?text=PHARMACY+RESEARCH",
+    "event": "Pharmacy Research Award",
+    "description": "B-Pharma students received recognition for presenting novel research on drug delivery systems, showing deep pharmaceutical insight and scientific rigor.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-008",
+    "image": "https://placehold.co/400x250/FFD700/000000?text=FINANCE+QUIZ",
+    "event": "Finance Quiz Triumph",
+    "description": "Students from the finance club aced the quiz competition, showcasing strong knowledge of economics, markets, banking, and financial instruments.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-009",
+    "image": "https://placehold.co/400x250/4682B4/FFFFFF?text=CLEANLINESS+DRIVE",
+    "event": "Campus Cleanliness Drive",
+    "description": "Volunteers in the college organized a cleanliness drive across the campus, promoting environmental hygiene and team spirit among students.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-010",
+    "image": "https://placehold.co/400x250/5F9EA0/FFFFFF?text=SPACE+SYMPOSIUM",
+    "event": "Space Tech Symposium",
+    "description": "Engineering students gathered to present space-technology research, with rocket models and simulations highlighting innovation and scientific curiosity.",
+    "isFeatured": true
+  },
+  {
+    "id": "ACH-011",
+    "image": "https://placehold.co/400x250/3CB371/FFFFFF?text=LEADERSHIP+WORKSHOP",
+    "event": "Leadership Workshop",
+    "description": "Future leaders from different courses participated in a workshop focusing on leadership, communication, and team-building skills to grow professionally.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-012",
+    "image": "https://placehold.co/400x250/B0C4DE/000000?text=PUBLIC+SPEAKING",
+    "event": "Public Speaking Contest",
+    "description": "Students impressed with their eloquent speeches and confident delivery in the public speaking contest, reflecting passion and smart preparation.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-013",
+    "image": "https://placehold.co/400x250/A52A2A/FFFFFF?text=ART+COMPETITION",
+    "event": "Art & Sketch Competition",
+    "description": "Creative minds showcased their artistic talent through sketching and painting, bringing imaginative themes to life with vivid visuals and skill.",
+    "isFeatured": true
+  },
+  {
+    "id": "ACH-014",
+    "image": "https://placehold.co/400x250/483D8B/FFFFFF?text=VOLUNTEER+CAMPAIGN",
+    "event": "Volunteer Campaign",
+    "description": "A group of students organized a volunteer campaign engaging the local community in health checks, education support, and social upliftment activities.",
+    "isFeatured": true
+  },
+  {
+    "id": "ACH-015",
+    "image": "https://placehold.co/400x250/D2691E/FFFFFF?text=BOOK+DONATION",
+    "event": "Book Donation Drive",
+    "description": "Students collected and donated hundreds of books to underprivileged schools, promoting literacy and spreading the joy of reading.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-016",
+    "image": "https://placehold.co/400x250/9400D3/FFFFFF?text=DANCE+BATTLE",
+    "event": "Inter-College Dance Battle",
+    "description": "Dance teams performed high-energy routines competing for the top prize, showing coordination, rhythm, and innovative choreography.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-017",
+    "image": "https://placehold.co/400x250/FF6347/FFFFFF?text=MUSIC+TALENT+SHOW",
+    "event": "Music Talent Show",
+    "description": "Musically gifted students performed singing and instrumental pieces, filling the auditorium with talent, passion, and harmony.",
+    "isFeatured": true
+  },
+  {
+    "id": "ACH-018",
+    "image": "https://placehold.co/400x250/20B2AA/FFFFFF?text=RESEARCH+PAPER",
+    "event": "Research Paper Presentation",
+    "description": "Students presented their original research findings at a national conference, impressing professors and peers with rigorous methodology and clarity.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-019",
+    "image": "https://placehold.co/400x250/3CB371/FFFFFF?text=TREE+PLANTATION",
+    "event": "Tree Plantation Drive",
+    "description": "Students came together to plant hundreds of saplings around the campus, contributing to a greener environment and sustainable future.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-020",
+    "image": "https://placehold.co/400x250/B8860B/FFFFFF?text=SPORTS+CHAMPION",
+    "event": "Sports Meet Champion",
+    "description": "Our athletes excelled in multiple sports events across the annual sports meet, showcasing their fitness, dedication, and excellent sportsmanship.",
+    "isFeatured": true
+  },
+  {
+    "id": "ACH-021",
+    "image": "https://placehold.co/400x250/0000CD/FFFFFF?text=ROBOTICS+MARATHON",
+    "event": "Robotics Marathon",
+    "description": "Engineering teams designed autonomous robots to compete in obstacle courses, demonstrating agility, precision, and competitive spirit.",
+    "isFeatured": true
+  },
+  {
+    "id": "ACH-022",
+    "image": "https://placehold.co/400x250/FF8C00/000000?text=STARTUP+PITCH",
+    "event": "Startup Pitch Expo",
+    "description": "Student entrepreneurs pitched real-world startup ideas to investors and mentors, showcasing creativity, business acumen, and market understanding.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-023",
+    "image": "https://placehold.co/400x250/2F4F4F/FFFFFF?text=GUEST+LECTURE",
+    "event": "Guest Lecture Series",
+    "description": "Industry experts and academics delivered powerful guest lectures, inspiring students with insights into innovation, careers, and professional growth.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-024",
+    "image": "https://placehold.co/400x250/DAA520/000000?text=PHOTOGRAPHY+CONTEST",
+    "event": "Photography Contest",
+    "description": "Students captured stunning images around campus and city life, competing in creativity and composition in the photography contest.",
+    "isFeatured": true
+  },
+  {
+    "id": "ACH-025",
+    "image": "https://placehold.co/400x250/DC143C/FFFFFF?text=BLOOD+DONATION",
+    "event": "Blood Donation Camp",
+    "description": "Students organized a blood donation camp on campus, promoting health awareness and community service by encouraging peers to save lives.",
+    "isFeatured": true
+  },
+  {
+    "id": "ACH-026",
+    "image": "https://placehold.co/400x250/00BFFF/000000?text=TECH+WORKSHOP",
+    "event": "Tech Workshop",
+    "description": "A hands-on workshop on web development, AI, and mobile app building helped students build prototypes and learn latest technologies.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-027",
+    "image": "https://placehold.co/400x250/008080/FFFFFF?text=CHEMISTRY+EXPO",
+    "event": "Chemistry Lab Expo",
+    "description": "BSc students presented chemical experiments and live demonstrations, blending theory with practical learning to wow the audience.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-028",
+    "image": "https://placehold.co/400x250/A0522D/FFFFFF?text=BUSINESS+STRATEGY",
+    "event": "Business Strategy Hack",
+    "description": "Teams of BBA students competed to design strategic business plans and models, focusing on market research, pitching, and financial viability.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-029",
+    "image": "https://placehold.co/400x250/8A2BE2/FFFFFF?text=MUSIC+JAM",
+    "event": "Music Jam Night",
+    "description": "Students came together for an open-mic music jam, performing vocals and instruments to build a vibrant, collaborative musical community.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-030",
+    "image": "https://placehold.co/400x250/228B22/FFFFFF?text=ECO+INITIATIVE",
+    "event": "Eco-Friendly Initiative",
+    "description": "Green club students launched eco-friendly campaigns including recycling, energy saving, and awareness drives to foster sustainable campus life.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-031",
+    "image": "https://placehold.co/400x250/9932CC/FFFFFF?text=PHARMA+DRUG+DISCOVERY",
+    "event": "Pharma Drug Discovery",
+    "description": "Pharmacy students worked on novel drug compounds, offering innovative solutions in drug discovery, formulation, and safety testing.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-032",
+    "image": "https://placehold.co/400x250/4682B4/FFFFFF?text=ALUMNI+REUNION",
+    "event": "Alumni Meet Reunion",
+    "description": "Alumni returned to the campus for the annual meet, sharing experiences, mentorship, and networking with current students.",
+    "isFeatured": true
+  },
+  {
+    "id": "ACH-033",
+    "image": "https://placehold.co/400x250/708090/FFFFFF?text=MENTORSHIP",
+    "event": "Peer Mentorship Program",
+    "description": "Senior students mentored freshmen on academics and personal growth, creating long-lasting bonds and academic support systems.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-034",
+    "image": "https://placehold.co/400x250/B8860B/FFFFFF?text=EXAM+AWARDS",
+    "event": "Exam Excellence Awards",
+    "description": "Top performers in semester exams received awards for outstanding scores, consistency, and dedication to their studies.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-035",
+    "image": "https://placehold.co/400x250/3CB371/FFFFFF?text=CAMPUS+BEAUTIFICATION",
+    "event": "Campus Beautification",
+    "description": "Students took initiative to beautify the campus with gardens, murals, and clean-up drives, making the environment more vibrant and welcoming.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-036",
+    "image": "https://placehold.co/400x250/FF69B4/FFFFFF?text=PIANO+RECITAL",
+    "event": "Piano Recital Concert",
+    "description": "Talented students performed classical and contemporary piano pieces, showcasing their mastery and emotional connection to music.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-037",
+    "image": "https://placehold.co/400x250/483D8B/FFFFFF?text=OUTREACH+CAMP",
+    "event": "Community Outreach Camp",
+    "description": "Students volunteered in local communities offering free tutoring, health checks, and awareness sessions to underprivileged groups.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-038",
+    "image": "https://placehold.co/400x250/191970/FFFFFF?text=CODING+BOOTCAMP",
+    "event": "Coding Bootcamp Graduation",
+    "description": "Participants completed a rigorous coding bootcamp, building full-stack projects and refining their software engineering skills.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-039",
+    "image": "https://placehold.co/400x250/FF4500/FFFFFF?text=INDEPENDENCE+DAY",
+    "event": "Independence Day Celebration",
+    "description": "Students organized a national day celebration on campus with speeches, flag hoisting, and cultural performances reflecting patriotic zeal.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-040",
+    "image": "https://placehold.co/400x250/B8860B/FFFFFF?text=LEADERSHIP+AWARD",
+    "event": "Leadership Award Night",
+    "description": "Outstanding student leaders were honored with awards recognizing their service, guidance, and motivating role in college community building.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-041",
+    "image": "https://placehold.co/400x250/4682B4/FFFFFF?text=FACULTY+RECOGNITION",
+    "event": "Faculty Recognition",
+    "description": "Teachers receiving appreciation awards for their dedication, mentorship, and impactful teaching methods during the annual faculty recognition ceremony.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-042",
+    "image": "https://placehold.co/400x250/2F4F4F/FFFFFF?text=MINDFULNESS+WORKSHOP",
+    "event": "Mindfulness Workshop",
+    "description": "Students participated in a mindfulness and stress-relief workshop, learning meditation techniques and practices for mental well-being.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-043",
+    "image": "https://placehold.co/400x250/DC143C/FFFFFF?text=CHARITY+FUNDRAISER",
+    "event": "Charity Fundraiser",
+    "description": "Organizers held a charity fundraiser to support local schools, raising funds while engaging students in social good and community empathy.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-044",
+    "image": "https://placehold.co/400x250/B8860B/FFFFFF?text=OUTSTANDING+ACHIEVEMENT",
+    "event": "Outstanding Achievement Award",
+    "description": "A student was honored with the outstanding achievement award for academic excellence, leadership, and community service.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-045",
+    "image": "https://placehold.co/400x250/0047AB/FFFFFF?text=MARKETING+PLAN",
+    "event": "Marketing Plan Contest",
+    "description": "Teams of business students developed innovative marketing plans and won the inter-college marketing contest with strong proposals.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-046",
+    "image": "https://placehold.co/400x250/8A2BE2/FFFFFF?text=CULTURAL+GALA",
+    "event": "Cultural Night Gala",
+    "description": "Students organized a cultural gala with dance, music, and drama performances that celebrated diversity and creativity under vivid lights.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-047",
+    "image": "https://placehold.co/400x250/0047AB/FFFFFF?text=MASTER%27S+ENROLLMENT",
+    "event": "Master’s Degree Enrollment",
+    "description": "Graduating students received admission into top-tier master’s programs, marking the beginning of their advanced academic journeys.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-048",
+    "image": "https://placehold.co/400x250/D2691E/FFFFFF?text=READING+MARATHON",
+    "event": "Reading Marathon",
+    "description": "Participants read for 24 hours straight in a reading marathon, promoting literacy, endurance, and passion for books across campus.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-049",
+    "image": "https://placehold.co/400x250/FF8C00/000000?text=ENTREPRENEUR+TALK",
+    "event": "Entrepreneur Talk Series",
+    "description": "Successful entrepreneurs visited the college to share their startup journey, challenges, and insights, inspiring future business leaders.",
+    "isFeatured": false
+  },
+  {
+    "id": "ACH-050",
+    "image": "https://placehold.co/400x250/FF6347/FFFFFF?text=MUSIC+RECITAL",
+    "event": "Music Recital Evening",
+    "description": "Talented musicians performed a recital evening featuring classical and modern compositions, creating a soulful and memorable musical experience.",
+    "isFeatured": false
+  }
+]

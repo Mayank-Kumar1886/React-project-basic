@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { MdCheck, MdDeleteForever } from "react-icons/md";
+import "../Style/index.css"
 
 const Todo = () => {
   const [inputValue, setInputValue] = useState("");
